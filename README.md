@@ -6,9 +6,8 @@ This example shows how to use AnyChart charting library in Android applications 
 
 ## Running on Your Android Device
 To run AnyChart sample on your Android device simply open
-[android-basic-sample.apk](https://static.anychart.com/cdn/integrations/android-basic-sample.apk) url in your device browser.
-Sample application will be automatically downloaded and an intallation process will be started.
-Following screenshots illustrate all steps of the installation process.
+[android-basic-sample.apk](https://static.anychart.com/cdn/integrations/android-basic-sample.apk) URL in your device browser.
+The sample application will be automatically downloaded and an installation process will be started. The following screenshots show all steps of the installation process:
 
 <table>
   <tr>
@@ -24,13 +23,11 @@ Following screenshots illustrate all steps of the installation process.
 </table>
 
 ## Running on Desktop
-To run AnyChart sample in development environment We recommend to use [Android Studio IDE](https://developer.android.com/studio).
-Following screenshots illustrate all steps of project import process.
+To run AnyChart sample in the development environment we recommend to use [Android Studio IDE](https://developer.android.com/studio). Following screenshots show all steps of the project import process:
   
 <img src="http://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-1.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 1">
 <img src="http://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-2.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 2">
 <img src="http://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-3.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 3">
-
 
 ## Further Learning
 * [Documentation](https://docs.anychart.com)
