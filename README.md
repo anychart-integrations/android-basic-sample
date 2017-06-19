@@ -36,4 +36,4 @@ To run AnyChart sample in the development environment we recommend to use [Andro
 * [Technical Support](https://anychart.com/support)
 
 ## License
-[© AnyChart.com - JavaScript charts](http://www.anychart.com). NodeJS Sample released under the [Apache 2.0 License](https://github.com/anychart-integrations/android-basic-sample/blob/master/LICENSE).
+[© AnyChart.com - JavaScript charts](http://www.anychart.com). Android Basic Sample released under the [Apache 2.0 License](https://github.com/anychart-integrations/android-basic-sample/blob/master/LICENSE).
