@@ -25,9 +25,9 @@ The sample application will be automatically downloaded and an installation proc
 ## Running on Desktop
 To run AnyChart sample in the development environment we recommend to use [Android Studio IDE](https://developer.android.com/studio). Following screenshots show all steps of the project import process:
   
-<img src="http://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-1.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 1">
-<img src="http://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-2.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 2">
-<img src="http://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-3.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 3">
+<img src="https://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-1.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 1">
+<img src="https://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-2.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 2">
+<img src="https://static.anychart.com/images/integrations/anychart-android-sample-desktop-step-3.png?v=1" alt="AnyChart Android basic sample | Desktop | Step 3">
 
 ## Further Learning
 * [Documentation](https://docs.anychart.com)
