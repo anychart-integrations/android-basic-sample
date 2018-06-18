@@ -6,7 +6,7 @@ This example shows how to use AnyChart charting library in Android applications 
 
 ## Running on Your Android Device
 To run AnyChart sample on your Android device simply open
-[android-basic-sample.apk](https://static.anychart.com/cdn/integrations/android-basic-sample.apk) URL in your device browser.
+[android-basic-sample.apk](https://cdn.anychart.com/integrations/android-basic-sample.apk) URL in your device browser.
 The sample application will be automatically downloaded and an installation process will be started. The following screenshots show all steps of the installation process:
 
 <table>
